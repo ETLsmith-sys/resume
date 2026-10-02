@@ -2,8 +2,6 @@
 
 **Junior Data Engineer** | Alexandria, Egypt
 
-[📄 Download CV (PDF)](./Mazen_Saad_CV.pdf)
-
 ---
 
 ## 👋 About Me
